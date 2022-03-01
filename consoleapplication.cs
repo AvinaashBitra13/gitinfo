@@ -14,6 +14,7 @@ namespace ConsoleApp2
             Area Obj = new Area();
             Obj.AreaOfSquare();
             Obj.AreaOfRectangle();
+            Obj.AreaOfCircle();
 
         }
         public void AreaOfSquare()
