@@ -35,6 +35,8 @@ namespace ConsoleApp2
             int Area = length * width;
             Console.WriteLine($"Area of Rectangle is {Area}");
             Console.ReadLine();
+            Console.WriteLine(Area);
+            Console.ReadLine();
         }
 
     }
